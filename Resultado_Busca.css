@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+}
+nav{
+   position: absolute;
+}
+a{
+   background-color: black;
+   font-size: 100%;
+}
+
+form{
+   position: rigth;
+}
+ul {
+  text-align: right;
+  padding: 3px;
+  color: white;
+  bottom: 0;
+}
+footer {
+    background-color: white;
+    color: black;
+    position: fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+    padding-top: 33px;
+    text-align: center;
+    font-size: 22px;
+
+} 
+
+button{
+    margin: 0 45px;
+}
+
